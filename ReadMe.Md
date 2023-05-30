@@ -14,6 +14,3 @@
   <li>Fourth item</li>
 </ol>
 
-|13|![Footer UI](https://icodethis.com/images/projects/footer_ui.png)
-|14|![Drink Water](https://i.ibb.co/g4HcR4q/Screenshot-2023-05-29-at-22-12-07.png/300/300)
-
