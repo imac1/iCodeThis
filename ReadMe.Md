@@ -1,0 +1,8 @@
+|Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|![Footer UI](https://icodethis.com/images/projects/footer_ui.png)  
+[Footer UI](https://www.icodethis.com/submissions/13220)|1|2|3|4|5|6|
+|2|7|8|9|10|11|12|13|
+|3|14|15|16|17|18|19|20|
+|4|21|22|23|24|25|26|27|
+|5|28|29|30|31|1|2|3|

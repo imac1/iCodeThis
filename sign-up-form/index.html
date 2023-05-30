@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sign-up-form</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <script type="module" src="/iCodeThis/sign-up-form/script.js"></script>
+</head>
+
+<body>
+    <div class="sign-up-card-container">
+
+        <div class="form-container">
+
+            <h1>Title</h1>
+            <h2>Subtitle</h2>
+            <div class="blue-btn-div">
+                <button class="button-blue" id="button-blue">Sign up with Facebook</button>
+            </div>
+            <p>Or</p>
+            <form action="/iCodeThis/Sign-up-Form/success.html" method="post">
+                <div class="input-row">
+                    <input type="text" placeholder="Name" minlength="2"
+                        title="The name must be longer than 2 characters" required>
+                    <input type="text" placeholder="Surname" minlength="2" required
+                        title="The surname must be longer tan 2 characters">
+                </div>
+                <input type="email" placeholder="Email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required
+                    title="Please enter a valid email address">
+                <input type="password" placeholder="Password" minlength="4" required
+                    title="Please, enter a password longer than 4 characters">
+                <button class="sign-up-btn" type="submit">Sign Up</button>
+                <p>By signing up, you agree to our terms and conditions</p>
+            </form>
+            <div class="success-box">
+                <div class="success-message">Success</div>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
