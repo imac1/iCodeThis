@@ -6,47 +6,47 @@
     
     0
     
-    ](/submissions/14481)
+  { width=300 height=200 }  ](/submissions/14481)
 *   [![Percentage Calculator](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/cd4b0563-5e2b-41e6-a752-2412069b312e.png)Percentage Calculator
     
     2
     
-    ](/submissions/14418)
+  { width=300 height=200 }  ](/submissions/14418)
 *   [![Member Invite](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/0326977b-cbbb-4253-95e4-f4b03e69bdd9.png)Member Invite
     
     1
     
-    ](/submissions/14395)
+  { width=300 height=200 }  ](/submissions/14395)
 *   [![Likes Dislikes Stats](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/a13a3899-c891-4cc1-9cdf-241b04a40fbd.png)Likes Dislikes Stats
     
     1
     
-    ](/submissions/14301)
+  { width=300 height=200 }  ](/submissions/14301)
 *   [![Edit Account](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/8d36289d-acfd-47f3-8b33-aecf43c9fdbc.png)Edit Account
     
     2
     
-    ](/submissions/14247)
+  { width=300 height=200 }  ](/submissions/14247)
 *   [![Device Stats](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/ae1654eb-2555-4988-9726-5489609509db.png)Device Stats
     
     1
     
-    ](/submissions/14201)
+  { width=300 height=200 }  ](/submissions/14201)
 *   [![Time Picker](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/8db0d41f-2b3c-4d30-af94-a87f805687b5.png)Time Picker
     
     0
     
-    ](/submissions/14176)
+   { width=300 height=200 } ](/submissions/14176)
 *   [![Stats Cards](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/8b65a6d7-d25e-42f6-ac13-58a839e925cd.png)Stats Cards
     
     1
     
-    ](/submissions/14080)
+  { width=300 height=200 }  ](/submissions/14080)
 *   [![Blog Cards](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/ee0db9c2-1d31-4957-aaab-ea8609506b52.png)Blog Cards
     
     0
     
-    ](https://www.icodethis.com/submissions/14017)
+   { width=300 height=200 } ](https://www.icodethis.com/submissions/14017)
 *   [![Repositories List](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/29cd5013-714c-4130-8260-fe5329b5a911.png)Repositories List
     
     1
@@ -391,69 +391,64 @@
     
     1
     
-    ](/submissions/1490)
+   { width=300 height=200 } ](/submissions/1490)
 *   [![Alerts](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/91193445-3719-4d73-aff0-27007f8d0690.png)Alerts
     
     0
     
-    ](/submissions/1487)
+   { width=300 height=200 } ](/submissions/1487)
 *   [![Banner](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/11948fc1-c4c2-411e-a49f-4e2583aa4d63.png)Banner
     
     0
     
-    ](/submissions/1387)
+   { width=300 height=200 } ](/submissions/1387)
 *   [![Background Pattern](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/3ca23024-63dc-45ea-8dc8-274753aa59e8.png)Background Pattern
     
     1
     
-    ](/submissions/1307)
+  { width=300 height=200 }  ](/submissions/1307)
 *   [![Signup Form](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/e83d6de5-29ec-4a82-8758-76a6b099adbf.png)Signup Form
     
     1
     
-    ](/submissions/1293)
+ { width=300 height=200 }   ](/submissions/1293)
 *   [![Sign in Form](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/75e96388-bd0e-421e-8308-aa6214f1cbbf.png)Sign in Form
     
     1
     
-    ](/submissions/1204)
+   { width=300 height=200 } ](/submissions/1204)
 *   [![Portfolio Profile](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/33d7aca3-6f28-4bdc-a208-f702aee97e74.png)Portfolio Profile
     
     0
     
-    ](/submissions/1184)
+  { width=300 height=200 }  ](/submissions/1184)
 *   [![Profile Tooltip](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/3da0cdf2-d12c-44d4-b964-493fdd1e971b.png)Profile Tooltip
     
     2
     
-    ](/submissions/1101)
+   { width=300 height=200 } ](/submissions/1101)
 *   [![Company Card](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/5acefd11-9189-479d-8cf4-ea00cb77152a.png)Company Card
     
     1
     
-    ](/submissions/1066)
+  { width=300 height=200 }  ](/submissions/1066)
 *   [![Projects Chart](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/1d464e2a-98ec-49f0-b0bf-85e9fe11bb6b.png)Projects Chart
     
     1
     
-    ](/submissions/1020)
-*   [![Steps](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/3708066d-233f-4477-895b-5b3b71cdd6e0.png)Steps
-    
-    1
-    
-    ](/submissions/988)
-*   [![Team Page](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/3b4f257a-eaa2-4cf9-a812-afd104b85b69.png)Team Page
-    
-    1
-    
-    ](/submissions/963)
+   { width=300 height=200 } ](/submissions/1020)
+*   [![Steps](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/3708066d-233f-4477-895b-5b3b71cdd6e0.png){ width=300 height=200} Steps](/submissions/988)
+* [![Team Page](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/3b4f257a-eaa2-4cf9-a812-afd104b85b69.png){ width=300 height=200 }]Team Page
+  1
+[/submissions/963](/submissions/963)
+
 *   [![Progress Bar](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/387d5498-a3ca-4790-91e7-638ed8abb437.png)Progress Bar
     
     2
     
-    ](/submissions/899)
+   { width=300 height=200 } ](/submissions/899)
 *   [![Pricing Card](https://shismqklzntzxworibfn.supabase.co/storage/v1/object/public/previews/0409b1a5-9060-4338-9b98-3322c5ee7c02.png)Pricing Card
     
     1
     
-    ](/submissions/870)
+  { width=300 height=200 }  ](/submissions/870)
