@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+   
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+        <script type="module" src="notifications.js" defer></script>
+</head>
+
+<body class="bg-[#eaf2ff] flex justify-center items-center min-h-screen">
+    <div class="bg-[#3557dc] text-white p-8 space-y-6 shadow-lg rounded-md max-w-xl w-full ">
+<div class="toast flex flex-row items-center gap-2 bg-[#5878f1] p-4 rounded-sm hover:opacity-50">
+    <span class="material-symbols-outlined">
+    done
+    </span>
+    <p class="grow">Payment successfully processed.</p>
+    <span class="material-symbols-outlined close visible">
+    close
+    </span>
+</div>
+<div class="toast flex flex-row items-center gap-2 bg-[#e9657b] p-4 rounded-sm hover:opacity-50">
+  
+    <p class="grow">An error occured while processing your request</p>
+    <p>Try again</p>
+    <span class="material-symbols-outlined close">
+    close
+    </span>
+</div>
+<div class="toast flex flex-row items-center gap-2 bg-[#5878f1] p-4 rounded-sm hover:opacity-50">
+    <p class="grow">Your changes has been saved.</p>
+    <span class="material-symbols-outlined close">
+    close
+    </span>
+</div>
+  
+    </div>
+</body>
+
+</html>
